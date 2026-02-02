@@ -1,0 +1,3 @@
+[submodule "1.Api from Nest app/src"]
+	path = 1.Api from Nest app/src
+	url = https://github.com/AlariCode/docker-demo.git
